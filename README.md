@@ -8,6 +8,8 @@ I envision and plan to develop a new SNS service.
 
 <p><img alt="jQuery" src ="https://img.shields.io/badge/jQuery-0769AD.svg?&style=for-the-badge&logo=jQuery&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/> <img alt="HTML" src ="https://img.shields.io/badge/HTML-E34F26.svg?&style=for-the-badge&logo=HTML&logoColor=white"/></p>
 
+<p><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white"/> <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/> <img alt="MariaDB" src ="https://img.shields.io/badge/MariaDB-003545.svg?&style=for-the-badge&logo=MariaDB&logoColor=white"/></p>
+
 
 <!--
 **kimduhee/kimduhee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
