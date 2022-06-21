@@ -1,6 +1,6 @@
 <!--![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=100&section=header&text=Duhee%20Kim&fontSize=90)-->
 <!--img width="100%" src="https://user-images.githubusercontent.com/80378085/150538122-d0c8472f-4b8c-4544-a35c-27c398234308.gif"/-->
-Hi!👋 I am a <b>full-stack</b> developer using java.</br>
+Hi!👋 I am a <b>Back-end</b> developer using java.</br>
 I enjoy learning and creating new things.</br>
 I envision and plan to develop a new SNS service.
 <h3>Experience</h3>
